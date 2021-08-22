@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://shadowli666.github.io/order-summary/)
+- Live Site URL: https://shadowli666.github.io/order-summary/
 
 ### Built with
 
@@ -55,5 +55,5 @@ Proud of something? That i made this project and finished it! =)
 - Frontend Mentor - [@Shadowli666](https://www.frontendmentor.io/profile/yourusername)
 - Discord - [Akira#8127]
 
-##Pd
+## Pd
 I need to practice and improve the mobile styling a lot,  any feedback is more than welcome
